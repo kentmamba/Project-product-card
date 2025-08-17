@@ -16,9 +16,8 @@ body {
   border: 3px solid #070001;
   border-radius: 12px;
 }
-
 .shop-header {
- background-color: orangered;
+  background-color: orangered;
   color: #000000;
   text-align: center;
   padding: 12px 18px;
@@ -26,9 +25,9 @@ body {
   font-weight: bold;
   margin: 10px auto;  
   margin-bottom: 20px;
-  border: 3px solid #fc8c9b;
+  border: 3px solid #110103;
   border-radius: 12px;
-  width: 300px;     
+  width: 400px;   /* ⬅ make wider */
 }
 
 

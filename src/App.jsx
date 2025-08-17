@@ -6,7 +6,7 @@ function App() {
     <div>
       
       <header className="shop-header">
-        <h1>Shop now</h1>
+        <h1>SHOP NOW</h1>
       </header>
 
      
