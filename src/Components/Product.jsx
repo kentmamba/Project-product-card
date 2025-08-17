@@ -16,7 +16,7 @@ function Product({ id }) {
       <p className="description">{product.description}</p>
       <p className="price">₱{product.price}</p>
       
-      {/* Add the button here */}
+      
       <BuyButton onClick={() => alert(`Buying ${product.name}`)} />
     </div>
   );
